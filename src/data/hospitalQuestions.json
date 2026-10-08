@@ -1,0 +1,152 @@
+{
+  "title": {
+    "en": "Hospital Navigation",
+    "hi": "अस्पताल मार्गदर्शन"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "icon": "stethoscope",
+      "color": "blue",
+      "department": { "en": "General Medicine", "hi": "सामान्य चिकित्सा" },
+      "question": {
+        "en": "Where is the General Medicine Department?",
+        "hi": "सामान्य चिकित्सा विभाग कहाँ है?"
+      },
+      "answer": {
+        "en": "General Medicine Department is on the 1st Floor, Room No. 101.",
+        "hi": "सामान्य चिकित्सा विभाग पहली मंजिल पर, कमरा नंबर 101 में है।"
+      },
+      "floor": { "en": "1st Floor", "hi": "पहली मंजिल" },
+      "room": { "en": "Room No. 101", "hi": "कमरा नंबर 101" }
+    },
+    {
+      "id": 2,
+      "icon": "heart-pulse",
+      "color": "pink",
+      "department": { "en": "Cardiology", "hi": "कार्डियोलॉजी" },
+      "question": {
+        "en": "Where is the Cardiology Department?",
+        "hi": "कार्डियोलॉजी विभाग कहाँ है?"
+      },
+      "answer": {
+        "en": "Cardiology Department is on the 2nd Floor, Room No. 201.",
+        "hi": "कार्डियोलॉजी विभाग दूसरी मंजिल पर, कमरा नंबर 201 में है।"
+      },
+      "floor": { "en": "2nd Floor", "hi": "दूसरी मंजिल" },
+      "room": { "en": "Room No. 201", "hi": "कमरा नंबर 201" }
+    },
+    {
+      "id": 3,
+      "icon": "accessibility",
+      "color": "green",
+      "department": { "en": "Orthopedics", "hi": "ऑर्थोपेडिक्स" },
+      "question": {
+        "en": "Where is the Orthopedics Department?",
+        "hi": "ऑर्थोपेडिक्स विभाग कहाँ है?"
+      },
+      "answer": {
+        "en": "Orthopedics Department is on the 1st Floor, Room No. 115.",
+        "hi": "ऑर्थोपेडिक्स विभाग पहली मंजिल पर, कमरा नंबर 115 में है।"
+      },
+      "floor": { "en": "1st Floor", "hi": "पहली मंजिल" },
+      "room": { "en": "Room No. 115", "hi": "कमरा नंबर 115" }
+    },
+    {
+      "id": 4,
+      "icon": "ear",
+      "color": "orange",
+      "department": { "en": "ENT", "hi": "ईएनटी" },
+      "question": {
+        "en": "Where is the ENT Department?",
+        "hi": "ईएनटी विभाग कहाँ है?"
+      },
+      "answer": {
+        "en": "ENT Department is on the 2nd Floor, Room No. 205.",
+        "hi": "ईएनटी विभाग दूसरी मंजिल पर, कमरा नंबर 205 में है।"
+      },
+      "floor": { "en": "2nd Floor", "hi": "दूसरी मंजिल" },
+      "room": { "en": "Room No. 205", "hi": "कमरा नंबर 205" }
+    },
+    {
+      "id": 5,
+      "icon": "clipboard-list",
+      "color": "indigo",
+      "department": { "en": "Registration Counter", "hi": "पंजीकरण काउंटर" },
+      "question": {
+        "en": "Where is the Registration Counter?",
+        "hi": "पंजीकरण काउंटर कहाँ है?"
+      },
+      "answer": {
+        "en": "The Registration Counter is on the Ground Floor, near the Main Entrance.",
+        "hi": "पंजीकरण काउंटर भूतल पर, मुख्य प्रवेश द्वार के पास है।"
+      },
+      "floor": { "en": "Ground Floor", "hi": "भूतल" },
+      "room": { "en": "Near the Main Entrance", "hi": "मुख्य प्रवेश द्वार के पास" }
+    },
+    {
+      "id": 6,
+      "icon": "pill",
+      "color": "teal",
+      "department": { "en": "Pharmacy", "hi": "फार्मेसी" },
+      "question": {
+        "en": "Where is the Pharmacy?",
+        "hi": "फार्मेसी कहाँ है?"
+      },
+      "answer": {
+        "en": "The Pharmacy is on the Ground Floor, next to the Registration Counter.",
+        "hi": "फार्मेसी भूतल पर, पंजीकरण काउंटर के बगल में है।"
+      },
+      "floor": { "en": "Ground Floor", "hi": "भूतल" },
+      "room": { "en": "Next to the Registration Counter", "hi": "पंजीकरण काउंटर के बगल में" }
+    },
+    {
+      "id": 7,
+      "icon": "flask",
+      "color": "purple",
+      "department": { "en": "Pathology Lab", "hi": "पैथोलॉजी लैब" },
+      "question": {
+        "en": "Where is the Pathology Lab?",
+        "hi": "पैथोलॉजी लैब कहाँ है?"
+      },
+      "answer": {
+        "en": "The Pathology Lab is on the Ground Floor, Room No. 012.",
+        "hi": "पैथोलॉजी लैब भूतल पर, कमरा नंबर 012 में है।"
+      },
+      "floor": { "en": "Ground Floor", "hi": "भूतल" },
+      "room": { "en": "Room No. 012", "hi": "कमरा नंबर 012" }
+    },
+    {
+      "id": 8,
+      "icon": "scan",
+      "color": "blue",
+      "department": { "en": "X-Ray", "hi": "एक्स-रे" },
+      "question": {
+        "en": "Where is the X-Ray Department?",
+        "hi": "एक्स-रे विभाग कहाँ है?"
+      },
+      "answer": {
+        "en": "The X-Ray Department is on the 1st Floor, Room No. 120.",
+        "hi": "एक्स-रे विभाग पहली मंजिल पर, कमरा नंबर 120 में है।"
+      },
+      "floor": { "en": "1st Floor", "hi": "पहली मंजिल" },
+      "room": { "en": "Room No. 120", "hi": "कमरा नंबर 120" }
+    },
+    {
+      "id": 9,
+      "icon": "siren",
+      "color": "red",
+      "department": { "en": "Emergency", "hi": "आपातकालीन" },
+      "question": {
+        "en": "Where is the Emergency Department?",
+        "hi": "आपातकालीन विभाग कहाँ है?"
+      },
+      "answer": {
+        "en": "The Emergency Department is on the Ground Floor, near the Main Entrance.",
+        "hi": "आपातकालीन विभाग भूतल पर, मुख्य प्रवेश द्वार के पास है।"
+      },
+      "floor": { "en": "Ground Floor", "hi": "भूतल" },
+      "room": { "en": "Near the Main Entrance", "hi": "मुख्य प्रवेश द्वार के पास" }
+    }
+  ]
+}
